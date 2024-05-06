@@ -1,2 +1,2 @@
 # curso_sql
-Práctica de consultas SQL
+Curso de SQL para Ciencia de Datos 
